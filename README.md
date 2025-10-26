@@ -1,2 +1,3 @@
 # UTS-Praktikum-Pemograman-Jaringan
-Nurhitasyafarhana_23343014
+Nama : Nurhitasyafarhana
+Nim : 23343014
